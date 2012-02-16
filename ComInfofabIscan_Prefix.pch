@@ -1,0 +1,6 @@
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <Barcode/BarcodeFramework.h>
+    #import <DevTool/DevToolFramework.h>
+#endif

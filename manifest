@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: tiiscan
+moduleid: com.infofab.iscan
+guid: fde4d30c-7e95-4ef8-83e3-2a20c1df5979
+platform: iphone
+minsdk: 1.8.0.1

@@ -1,0 +1,706 @@
+Ttiiscan
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.pth ComInfofabIscan_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/libComInfofabIscan.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F0D3ECD0000000000000110
+t1326268109
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/Bridge.h
+c000000004DD28DE60000000000000268
+t1305644518
+s616
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/KrollCallback.h
+c000000004DD28DE60000000000000466
+t1305644518
+s1126
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/KrollContext.h
+c000000004DD28DE600000000000013AF
+t1305644518
+s5039
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/KrollObject.h
+c000000004DD28DE60000000000000D1B
+t1305644518
+s3355
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiBase.h
+c000000004DD28DE6000000000000360F
+t1305644518
+s13839
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiBlob.h
+c000000004DD28DE600000000000005B5
+t1305644518
+s1461
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiBuffer.h
+c000000004DD28DE600000000000003B9
+t1305644518
+s953
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiColor.h
+c000000004DD28DE600000000000002E6
+t1305644518
+s742
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/Ti.h
+c000000004DD28DE6000000000000071C
+t1305644518
+s1820
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiBase.h
+c000000004DD28DE60000000000001A03
+t1305644518
+s6659
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiContextRef.h
+c000000004DD28DE600000000000014D8
+t1305644518
+s5336
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiContextRefPrivate.h
+c000000004DD28DE60000000000000860
+t1305644518
+s2144
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiCore.h
+c000000004DD28DE6000000000000069B
+t1305644518
+s1691
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiObjectRef.h
+c000000004DD28DE6000000000000945D
+t1305644518
+s37981
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiStringRef.h
+c000000004DD28DE6000000000000168A
+t1305644518
+s5770
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiStringRefCF.h
+c000000004DD28DE60000000000000A3B
+t1305644518
+s2619
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/TiValueRef.h
+c000000004DD28DE60000000000002AE2
+t1305644518
+s10978
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore/WebKitAvailability.h
+c000000004DD28DE60000000000006BD6
+t1305644518
+s27606
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h
+c000000004DD28DE6000000000000119C
+t1305644518
+s4508
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiEvaluator.h
+c000000004DD28DE600000000000004BB
+t1305644518
+s1211
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiFile.h
+c000000004DD28DE60000000000000368
+t1305644518
+s872
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiHost.h
+c000000004DD28DE60000000000000503
+t1305644518
+s1283
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h
+c000000004DD28DE60000000000000409
+t1305644518
+s1033
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiProxy.h
+c000000004DD28DE600000000000014BE
+t1305644518
+s5310
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiPublicAPI.h
+c000000004DD28DE60000000000000A67
+t1305644518
+s2663
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiStylesheet.h
+c000000004DD28DE600000000000002CB
+t1305644518
+s715
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiThreading.h
+c000000004DD28DE600000000000009CE
+t1305644518
+s2510
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h
+c000000004DD28DE60000000000001918
+t1305644518
+s6424
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/WebFont.h
+c000000004DD28DE60000000000000409
+t1305644518
+s1033
+
+N/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/defines.h
+c000000004DD28DE600000000000008C7
+t1305644518
+s2247
+
+N/Users/infofab/Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BarcodeFramework.h
+c000000004F0AB55C0000000000000E44
+t1326101852
+s3652
+
+N/Users/infofab/Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/DevToolFramework.h
+c000000004F0AB5680000000000000875
+t1326101864
+s2165
+
+N/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h
+c000000004F3329F500000000000000F5
+t1328753141
+s245
+
+N/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m
+c000000004F3329F500000000000008B6
+t1328753141
+s2230
+
+N/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.h
+c000000004F3329F500000000000000A3
+t1328753141
+s163
+
+N/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.m
+c000000004F3329F5000000000000010E
+t1328753141
+s270
+
+N/Users/infofab/tmp/tiiscan/ComInfofabIscan_Prefix.pch
+c000000004F3329F5000000000000003E
+t1328753141
+s62
+i<Foundation/Foundation.h>
+
+N/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/libComInfofabIscan.a
+t1328757780
+s15952
+
+N/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscan.LinkFileList
+c000000004F333C120000000000000108
+t1328757778
+s264
+
+N/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o
+t1328757780
+s11844
+
+N/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o
+t1328757779
+s3624
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Barcode
+c000000004F0AB55C000000000033DCD4
+t1326101852
+s3398868
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BarcodeBuilder.h
+c000000004F0AB55C0000000000000102
+t1326101852
+s258
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BarcodeFramework.h
+c000000004F0AB55C0000000000000E44
+t1326101852
+s3652
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BeepToneState.h
+c000000004F0AB55C00000000000000FB
+t1326101852
+s251
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BeepToneStateHigh.h
+c000000004F0AB55C000000000000016A
+t1326101852
+s362
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BeepToneStateLow.h
+c000000004F0AB55C0000000000000166
+t1326101852
+s358
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/BeepToneStateMedium.h
+c000000004F0AB55C0000000000000172
+t1326101852
+s370
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/Character.h
+c000000004F0AB55C0000000000000164
+t1326101852
+s356
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/FirmwareUpdate.h
+c000000004F0AB55C00000000000003B0
+t1326101852
+s944
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/FirmwareUpdateState.h
+c000000004F0AB55C0000000000000202
+t1326101852
+s514
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/IPDT380.h
+c000000004F0AB55C00000000000000D4
+t1326101852
+s212
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/IScan.h
+c000000004F0AB55C00000000000000D1
+t1326101852
+s209
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/PrefixCharacter.h
+c000000004F0AB55C00000000000001B0
+t1326101852
+s432
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType.h
+c000000004F0AB55C0000000000000134
+t1326101852
+s308
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType1.h
+c000000004F0AB55C00000000000001C3
+t1326101852
+s451
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType2.h
+c000000004F0AB55C00000000000001CD
+t1326101852
+s461
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType3.h
+c000000004F0AB55C00000000000001CD
+t1326101852
+s461
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType4.h
+c000000004F0AB55C00000000000001D7
+t1326101852
+s471
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType5.h
+c000000004F0AB55C00000000000001CC
+t1326101852
+s460
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType6.h
+c000000004F0AB55C00000000000001D6
+t1326101852
+s470
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType7.h
+c000000004F0AB55C00000000000001D6
+t1326101852
+s470
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanDataTransmissionFormatType8.h
+c000000004F0AB55C00000000000001E0
+t1326101852
+s480
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanShot.h
+c000000004F0AB55C0000000000000148
+t1326101852
+s328
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/ScanShotReceiver.h
+c000000004F0AB55C000000000000024A
+t1326101852
+s586
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/Suffix1Character.h
+c000000004F0AB55C00000000000001B5
+t1326101852
+s437
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/Suffix2Character.h
+c000000004F0AB55C00000000000001B5
+t1326101852
+s437
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TransmitCodeId.h
+c000000004F0AB55C000000000000010E
+t1326101852
+s270
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TransmitCodeIdStateAIM.h
+c000000004F0AB55C0000000000000186
+t1326101852
+s390
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TransmitCodeIdStateNone.h
+c000000004F0AB55C000000000000017C
+t1326101852
+s380
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TransmitCodeIdStateSymbol.h
+c000000004F0AB55C0000000000000192
+t1326101852
+s402
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TriggerModeState.h
+c000000004F0AB55C00000000000000E3
+t1326101852
+s227
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TriggerModeStateBlinking.h
+c000000004F0AB55C000000000000015A
+t1326101852
+s346
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TriggerModeStateContinuous.h
+c000000004F0AB55C0000000000000161
+t1326101852
+s353
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TriggerModeStateHost.h
+c000000004F0AB55C000000000000014E
+t1326101852
+s334
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TriggerModeStateLevel.h
+c000000004F0AB55C0000000000000151
+t1326101852
+s337
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework/Headers/TriggerModeStatePulse.h
+c000000004F0AB55C0000000000000151
+t1326101852
+s337
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/DevTool
+c000000004F0AB568000000000040C894
+t1326101864
+s4245652
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/AbstractDAO.h
+c000000004F0AB56800000000000007C2
+t1326101864
+s1986
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/Accessory.h
+c000000004F0AB5680000000000000176
+t1326101864
+s374
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/AlertViews.h
+c000000004F0AB5680000000000000216
+t1326101864
+s534
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/AsyncSocket.h
+c000000004F0AB5680000000000007535
+t1326101864
+s30005
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/Command.h
+c000000004F0AB568000000000000049D
+t1326101864
+s1181
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/CommandReceiverImpl.h
+c000000004F0AB5680000000000000137
+t1326101864
+s311
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/Connection.h
+c000000004F0AB56800000000000018DB
+t1326101864
+s6363
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/DDLog.h
+c000000004F0AB5680000000000004946
+t1326101864
+s18758
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/DataAccessProvider.h
+c000000004F0AB56800000000000001BB
+t1326101864
+s443
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/DevToolFramework.h
+c000000004F0AB5680000000000000875
+t1326101864
+s2165
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/GCDAsyncSocket.h
+c000000004F0AB5680000000000009B7F
+t1326101864
+s39807
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/LogFactory.h
+c000000004F0AB5680000000000000103
+t1326101864
+s259
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/NotificationHandler.h
+c000000004F0AB5680000000000000AC8
+t1326101864
+s2760
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/ReadNSData.h
+c000000004F0AB56800000000000002EF
+t1326101864
+s751
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/Socket.h
+c000000004F0AB5680000000000000260
+t1326101864
+s608
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/SocketClient.h
+c000000004F0AB5680000000000000324
+t1326101864
+s804
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/SocketServer.h
+c000000004F0AB5680000000000000397
+t1326101864
+s919
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/StringTool.h
+c000000004F0AB5680000000000000180
+t1326101864
+s384
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/SynthesizeSingleton.h
+c000000004F0AB5690000000000001006
+t1326101865
+s4102
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/XMLDocElement.h
+c000000004F0AB5690000000000000318
+t1326101865
+s792
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/XMLDocument.h
+c000000004F0AB56900000000000005D1
+t1326101865
+s1489
+
+N/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework/Headers/XPathQuery.h
+c000000004F0AB569000000000000010C
+t1326101865
+s268
+
+N/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h
+c000000004F3B526A00000000000000F5
+t1329287786
+s245
+
+N/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m
+c000000004F3B77480000000000000A43
+t1329297224
+s2627
+
+N/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.h
+c000000004F3329F500000000000000A3
+t1328753141
+s163
+
+N/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m
+c000000004F3329F5000000000000010E
+t1328753141
+s270
+
+N/Users/infofab/tmp/tiiscan_cp/ComInfofabIscan_Prefix.pch
+c000000004F3B53350000000000000090
+t1329287989
+s144
+i<Foundation/Foundation.h>
+i<Barcode/BarcodeFramework.h>
+i<DevTool/DevToolFramework.h>
+
+N/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/libComInfofabIscan.a
+t1329297233
+s16192
+
+N/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscan.LinkFileList
+c000000004F3B40D0000000000000010E
+t1329283280
+s270
+
+N/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o
+t1329297233
+s12080
+
+N/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o
+t1329288179
+s3632
+
+N/var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch.pth
+t1328757779
+s2444736
+
+N/var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.pth
+t1329288179
+s4329504
+
+N/var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-fzoehjgbisprurhhuxktlgrifzpg/ComInfofabIscan_Prefix.pch.pth
+t1329277558
+s2444760
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesabb3363db0ebb441^21b0523db0ebb441^---0#1#0#--18"Check dependencies36"B1BD1CC2-2F25-4FBA-A889-97D0A1E1D1CB-
+
+CCompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350450579.817563
+e350450580.351853
+r1
+xCompileC
+xbuild/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o
+x/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m:7:
+oIn file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h:7:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:
+o/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.md864d19373e3b441^49145a9473e3b441^-943"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:In file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h:7:In file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m:7:/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^2 warnings generated.2(21%IDEActivityLogMessage2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-350450580#385#216#5(36%IDEActivityLogHeaderInclusionMessage3@107"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:-350450580#0#108#-0#-23%DVTTextDocumentLocation4@100"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:-350450580#108#109#-0#-4@101"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h:7:-350450580#217#84#-0#-4@74"file://localhost/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m:7:-350450580#301#84#-0#-4@74"file://localhost/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@183"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h-350450580#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#14"Semantic Issue--2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-350450580#653#216#5(3@107"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:-350450580#18446744073709551615#0#-0#-4@100"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:-350450580#18446744073709551615#0#-0#-4@101"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h:7:-350450580#18446744073709551615#0#-0#-4@74"file://localhost/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@83"In file included from /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m:7:-350450580#18446744073709551615#0#-0#-4@74"file://localhost/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@183"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h-350450580#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@74"file://localhost/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m0000000000000000^2828"CompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o Classes/ComInfofabIscanModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/infofab/tmp/tiiscan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-generated-files.hmap -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-own-target-headers.hmap -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-all-target-headers.hmap -iquote /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-project-headers.hmap -I/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore" -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources/i386 -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources -F/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator -include /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch -MMD -MT dependencies -MF /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.d -c /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModule.m -o /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o36"5EF02908-8991-4020-9427-C5A3E3342908-
+
+CCompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350990033.383097
+e350990033.538846
+r1
+xCompileC
+xbuild/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o
+x/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m:7:
+oIn file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h:7:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:
+oIn file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:
+o/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]
+o         switch (dimension.type)
+o                 ^
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.mab3f62d1aeebb441^8df189d1aeebb441^-949"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:In file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h:7:In file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m:7:/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:110:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h:134:10: warning: enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch [-Wswitch-enum,3]         switch (dimension.type)                 ^2 warnings generated.2(21%IDEActivityLogMessage2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-350990033#391#216#5(36%IDEActivityLogHeaderInclusionMessage3@107"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:-350990033#0#108#-0#-23%DVTTextDocumentLocation4@100"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:-350990033#108#109#-0#-4@101"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@86"In file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h:7:-350990033#217#87#-0#-4@77"file://localhost/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@86"In file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m:7:-350990033#304#87#-0#-4@77"file://localhost/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@183"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h-350990033#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^109#9#109#9#18446744073709551615#0#14"Semantic Issue--2@93"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch-350990033#659#216#5(3@107"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h:9:-350990033#18446744073709551615#0#-0#-4@100"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiUtils.h0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h:7:-350990033#18446744073709551615#0#-0#-4@101"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@86"In file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h:7:-350990033#18446744073709551615#0#-0#-4@77"file://localhost/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---3@86"In file included from /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m:7:-350990033#18446744073709551615#0#-0#-4@77"file://localhost/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2@183"Enumeration values 'TiDimensionTypeUndefined' and 'TiDimensionTypeAuto' not handled in switch in /Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h-350990033#18446744073709551615#0#-0#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#---1#-4@104"file://localhost/Library/Application%20Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiDimension.h0000000000000000^133#9#133#9#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@77"file://localhost/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m0000000000000000^2942"CompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o Classes/ComInfofabIscanModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/infofab/tmp/tiiscan_cp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-generated-files.hmap -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-own-target-headers.hmap -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-all-target-headers.hmap -iquote /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-project-headers.hmap -I/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore" -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources/i386 -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources -F/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator -F/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks -include /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch -MMD -MT dependencies -MF /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.d -c /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModule.m -o /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModule.o36"529895AC-D0A1-488E-B0F5-F4C160229EE9-
+
+CCompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350450579.818058
+e350450579.993609
+r1
+xCompileC
+xbuild/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o
+x/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.m6b81d19373e3b441^e15dfe9373e3b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.m0000000000000000^2858"CompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o Classes/ComInfofabIscanModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/infofab/tmp/tiiscan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-generated-files.hmap -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-own-target-headers.hmap -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-all-target-headers.hmap -iquote /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-project-headers.hmap -I/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore" -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources/i386 -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources -F/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator -include /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch -MMD -MT dependencies -MF /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.d -c /Users/infofab/tmp/tiiscan/Classes/ComInfofabIscanModuleAssets.m -o /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o36"063F2819-6A52-44EA-B3CF-4C4533424547-
+
+CCompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350980979.843886
+e350980979.951481
+r1
+xCompileC
+xbuild/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o
+x/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.mc669d8738bebb441^81cef8738bebb441^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m0000000000000000^2975"CompileC build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o Classes/ComInfofabIscanModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/infofab/tmp/tiiscan_cp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-generated-files.hmap -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-own-target-headers.hmap -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-all-target-headers.hmap -iquote /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-project-headers.hmap -I/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore" -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources/i386 -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources -F/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator -F/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks -include /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch -MMD -MT dependencies -MF /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.d -c /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m -o /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscanModuleAssets.o36"B8ED0A12-944E-4BEE-8EED-B9159AC1C94D-
+
+CLibtool /Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/libComInfofabIscan.a normal i386
+s350450580.353663
+e350450580.384579
+r1
+xLibtool
+x/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/libComInfofabIscan.a
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Libtool build/Release-iphonesimulator/libComInfofabIscan.a normal i386739d5a9473e3b441^6282629473e3b441^---0#0#0#--852"Libtool build/Release-iphonesimulator/libComInfofabIscan.a normal i386    cd /Users/infofab/tmp/tiiscan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator -filelist /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscan.LinkFileList -framework Foundation -o /Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/libComInfofabIscan.a36"6FB4E905-E488-4EB9-AC83-2DCCF68FAB96-
+
+CLibtool /Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/libComInfofabIscan.a normal i386
+s350990033.540693
+e350990033.548590
+r1
+xLibtool
+x/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/libComInfofabIscan.a
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Libtool build/Release-iphonesimulator/libComInfofabIscan.a normal i386be888ad1aeebb441^f31c8dd1aeebb441^---0#0#0#--902"Libtool build/Release-iphonesimulator/libComInfofabIscan.a normal i386    cd /Users/infofab/tmp/tiiscan_cp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator -filelist /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/Objects-normal/i386/ComInfofabIscan.LinkFileList -framework DevTool -framework Barcode -framework Foundation -o /Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/libComInfofabIscan.a36"58801854-3BB6-4141-A189-CAA61B60F3F5-
+
+CProcessPCH /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch.pth ComInfofabIscan_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350450578.793080
+e350450579.816239
+r1
+xProcessPCH
+x/var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch.pth
+xComInfofabIscan_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile ComInfofabIscan_Prefix.pch643bcb9273e3b441^0af5d09373e3b441^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/infofab/tmp/tiiscan/ComInfofabIscan_Prefix.pch0000000000000000^2822"ProcessPCH /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch.pth ComInfofabIscan_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/infofab/tmp/tiiscan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/X11/bin:/android-sdk-mac_86/tools"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-generated-files.hmap -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-own-target-headers.hmap -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-all-target-headers.hmap -iquote /Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-project-headers.hmap -I/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore" -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources/i386 -I/Users/infofab/tmp/tiiscan/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources -F/Users/infofab/tmp/tiiscan/build/Release-iphonesimulator -c /Users/infofab/tmp/tiiscan/ComInfofabIscan_Prefix.pch -o /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-aayatclxnotjapboirvpeautropv/ComInfofabIscan_Prefix.pch.d36"07531450-9B58-43B2-9113-A3533FC0364D-
+
+CProcessPCH /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.pth ComInfofabIscan_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350980979.529968
+e350980979.841661
+r1
+xProcessPCH
+x/var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.pth
+xComInfofabIscan_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile ComInfofabIscan_Prefix.pch070a88738bebb441^a376d7738bebb441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/infofab/tmp/tiiscan_cp/ComInfofabIscan_Prefix.pch0000000000000000^2933"ProcessPCH /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.pth ComInfofabIscan_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/infofab/tmp/tiiscan_cp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-generated-files.hmap -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-own-target-headers.hmap -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-all-target-headers.hmap -iquote /Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/ComInfofabIscan-project-headers.hmap -I/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator/include "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include" "-I/Library/Application Support/Titanium/mobilesdk/osx/1.8.0/iphone/include/TiCore" -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources/i386 -I/Users/infofab/tmp/tiiscan_cp/build/tiiscan.build/Release-iphonesimulator/tiiscan.build/DerivedSources -F/Users/infofab/tmp/tiiscan_cp/build/Release-iphonesimulator -F/Users/infofab/tmp/tiiscan_cp/../../Desktop/Mobilogics.framework/Frameworks -c /Users/infofab/tmp/tiiscan_cp/ComInfofabIscan_Prefix.pch -o /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-betibpipucjmlddfpveuehharcto/ComInfofabIscan_Prefix.pch.d36"62755643-8EBB-429D-9AB4-5B1925FB3DFB-
+
+CProcessPCH /var/folders/kM/kMsmpAPeHcGd8ynFFAxST++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComInfofabIscan_Prefix-fzoehjgbisprurhhuxktlgrifzpg/ComInfofabIscan_Prefix.pch.pth ComInfofabIscan_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
