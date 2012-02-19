@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.m \
-  /Users/infofab/tmp/tiiscan_cp/Classes/ComInfofabIscanModuleAssets.h
+  /Users/kencool/Documents/Mobilogics/Classes/ComInfofabIscanModuleAssets.m \
+  /Users/kencool/Documents/Mobilogics/Classes/ComInfofabIscanModuleAssets.h

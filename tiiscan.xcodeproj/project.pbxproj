@@ -26,9 +26,9 @@
 		24DD6CFA1134B3F500162E58 /* ComInfofabIscanModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* ComInfofabIscanModule.m */; };
 		24DE9E1111C5FE74003F90F6 /* ComInfofabIscanModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* ComInfofabIscanModuleAssets.h */; };
 		24DE9E1211C5FE74003F90F6 /* ComInfofabIscanModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* ComInfofabIscanModuleAssets.m */; };
+		8184574614F14034004B2217 /* Barcode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8184574414F14034004B2217 /* Barcode.framework */; };
+		8184574714F14034004B2217 /* DevTool.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8184574514F14034004B2217 /* DevTool.framework */; };
 		AA747D9F0F9514B9006C5449 /* ComInfofabIscan_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* ComInfofabIscan_Prefix.pch */; };
-		AA8C2EDA14EB7813006BC635 /* Barcode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA8C2ED914EB7813006BC635 /* Barcode.framework */; settings = {ATTRIBUTES = (Required, ); }; };
-		AA8C2EDD14EB782C006BC635 /* DevTool.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA8C2EDC14EB782C006BC635 /* DevTool.framework */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -48,9 +48,9 @@
 		24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = titanium.xcconfig; sourceTree = "<group>"; };
 		24DE9E0F11C5FE74003F90F6 /* ComInfofabIscanModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComInfofabIscanModuleAssets.h; path = Classes/ComInfofabIscanModuleAssets.h; sourceTree = "<group>"; };
 		24DE9E1011C5FE74003F90F6 /* ComInfofabIscanModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComInfofabIscanModuleAssets.m; path = Classes/ComInfofabIscanModuleAssets.m; sourceTree = "<group>"; };
+		8184574414F14034004B2217 /* Barcode.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Barcode.framework; sourceTree = "<group>"; };
+		8184574514F14034004B2217 /* DevTool.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = DevTool.framework; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* ComInfofabIscan_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComInfofabIscan_Prefix.pch; sourceTree = SOURCE_ROOT; };
-		AA8C2ED914EB7813006BC635 /* Barcode.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Barcode.framework; path = ../../Desktop/Mobilogics.framework/Frameworks/Barcode.framework; sourceTree = "<group>"; };
-		AA8C2EDC14EB782C006BC635 /* DevTool.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DevTool.framework; path = ../../Desktop/Mobilogics.framework/Frameworks/DevTool.framework; sourceTree = "<group>"; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D2AAC07E0554694100DB518D /* libComInfofabIscan.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libComInfofabIscan.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -60,9 +60,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AA8C2EDD14EB782C006BC635 /* DevTool.framework in Frameworks */,
-				AA8C2EDA14EB7813006BC635 /* Barcode.framework in Frameworks */,
 				AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */,
+				8184574614F14034004B2217 /* Barcode.framework in Frameworks */,
+				8184574714F14034004B2217 /* DevTool.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,8 +91,8 @@
 		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				AA8C2EDC14EB782C006BC635 /* DevTool.framework */,
-				AA8C2ED914EB7813006BC635 /* Barcode.framework */,
+				8184574414F14034004B2217 /* Barcode.framework */,
+				8184574514F14034004B2217 /* DevTool.framework */,
 				AACBBE490F95108600F1A2B1 /* Foundation.framework */,
 			);
 			name = Frameworks;
@@ -225,6 +225,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../Desktop/Mobilogics.framework/Frameworks\"",
+					"\"$(SRCROOT)\"",
 				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
@@ -247,6 +248,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../Desktop/Mobilogics.framework/Frameworks\"",
+					"\"$(SRCROOT)\"",
 				);
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
