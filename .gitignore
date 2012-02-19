@@ -3,4 +3,6 @@ tmp
 build.log
 build/
 .DS_Store
-.zip
+*.zip
+tiiscan.xcodeproj/xcuserdata/
+tiiscan.xcodeproj/project.xcworkspace/xcuserdata/
