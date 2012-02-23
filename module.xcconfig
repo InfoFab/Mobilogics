@@ -16,6 +16,13 @@
 //
 // OTHER_LDFLAGS[sdk=iphoneos4*]=$(inherited) -framework Foo
 // OTHER_LDFLAGS[sdk=iphonesimulator4*]=$(inherited) -framework Foo
+
+OTHER_LDFLAGS[sdk=iphoneos4*]=$(inherited) -framework DevTool
+OTHER_LDFLAGS[sdk=iphonesimulator4*]=$(inherited) -framework DevTool
+
+OTHER_LDFLAGS[sdk=iphoneos4*]=$(inherited) -framework Barcode
+OTHER_LDFLAGS[sdk=iphonesimulator4*]=$(inherited) -framework Barcode
+
 //
 //
 // How to add a compiler define:
